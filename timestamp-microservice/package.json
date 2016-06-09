@@ -4,6 +4,7 @@
   "description": "Timestamp Microservice",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node_modules/.bin/mocha -u exports test/*/*"
   },
   "author": "gawk88",
