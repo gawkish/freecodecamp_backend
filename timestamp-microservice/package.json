@@ -9,14 +9,23 @@
   },
   "author": "gawk88",
   "dependencies": {
-    "express": "^4.13.4",
-    "mocha": "^2.4.5"
+    "express": "4.13.4",
+    "mocha": "2.4.5"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "supertest": "^1.2.0"
+    "chai": "3.5.0",
+    "supertest": "1.2.0"
   },
   "engines": {
     "node": "6.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmaskoliunas/freecodecamp_backend/tree/master/timestamp-microservice"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
 }
