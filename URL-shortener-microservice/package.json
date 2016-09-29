@@ -1,10 +1,10 @@
 {
-  "name": "fcc_Timestamp_Microservice",
+  "name": "fcc_URL_Shortener_Microservice",
   "version": "1.0.0",
-  "description": "Timestamp Microservice",
+  "description": "URL Shortener Microservice",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js"
   },
   "author": "gawk88",
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmaskoliunas/freecodecamp_backend/tree/master/timestamp-microservice"
+    "url": "https://github.com/mmaskoliunas/freecodecamp_backend/tree/master/URL-shortener-microservice"
   },
   "keywords": [
     "node",
