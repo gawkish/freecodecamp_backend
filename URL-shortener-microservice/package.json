@@ -1,0 +1,27 @@
+{
+  "name": "fcc_Timestamp_Microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+  },
+  "author": "gawk88",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mocha": "^2.4.5",
+    "mongoose": "^4.6.1"
+  },
+  "engines": {
+    "node": "6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmaskoliunas/freecodecamp_backend/tree/master/timestamp-microservice"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
