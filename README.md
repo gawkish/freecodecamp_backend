@@ -20,3 +20,9 @@ URL-shortener-microservice:
 	heroku git:remote -a fcc-b-url-shortener
 	cd ..
 	git subtree push --prefix URL-shortener-microservice heroku master
+    
+file-metadata-microservice:
+    cd file-metadata-microservice
+    heroku git:remote -a fcc-b-file-metadata
+    cd ..
+    git subtree push --prefix file-metadata-microservice heroku master
